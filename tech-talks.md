@@ -6,5 +6,6 @@ Alokasi waktu untuk acara ini adalah 2 jam (di luar ishoma) dengan porsi sebagai
 
 1. Slot materi dibuka untuk maksimal 3 pemateri
 2. Slot waktu per sesi adalah maksimal 40 menit, sudah termasuk tanya jawab
-3. Sebelum acara, pembicara dapat meminta tambahan waktu bila diperlukan (maksimal 30 menit), asal tidak melebihi alokasi waktu 2 jam untuk keseluruhan acara. Slot waktu ini tidak dapat ditambah lagi saat acara sedang berlangsung. 
-4. Waktu tambahan dari moderator jika mepet adalah 30 menit, jadi total alokasi waktu maksimal adalah 2.5 jam
+3. Disediakan __waktu tambahan__ 30 menit.
+4. Pembicara bebas meminta penambahan waktu beberapa menit dari **waktu tambahan** yang disediakan.
+5. Permintaan penambahan waktu dari **waktu tambahan** dilakukan sebelum acara berlangsung, agar panitia bisa menyesuaikan kembali **waktu tambahan** yang tersisa untuk pembicara lain yang membutuhkan
