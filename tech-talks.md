@@ -9,3 +9,5 @@ Alokasi waktu untuk acara ini adalah 2 jam (di luar ishoma) dengan porsi sebagai
 3. Disediakan __waktu tambahan__ 30 menit.
 4. Pembicara bebas meminta penambahan waktu beberapa menit dari **waktu tambahan** yang disediakan.
 5. Permintaan penambahan waktu dari **waktu tambahan** dilakukan sebelum acara berlangsung, agar panitia bisa menyesuaikan kembali **waktu tambahan** yang tersisa untuk pembicara lain yang membutuhkan
+
+Jadi total waktu maksimal keseluruhan ditambah **waktu tambahan** adalah 2.5 jam.
