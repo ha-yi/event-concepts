@@ -1,3 +1,5 @@
+# Lightning talk
+
 Lightning talk adalah presentasi pendek yang disampaikan di konferensi atau forum, biasanya dirancang sepanjang 5 atau 10 menit dan menampung banyak topik untuk didiskusikan dari banyak pembicara. Lightning talk membutuhkan persiapan lebih matang dari pembicara untuk dapat mengemas materiniya dengan baik dan menghindari poin-poin tidak penting dari topik yang akan dibawakannya. Konsep acara ini bertujuan memberikan insight, pandangan awal yang jelas dan pancingan untuk peserta tentang topik-topik tertentu.
 
 Bentuk acara ini tidak sampai mengharuskan peserta membuka laptop atau mengikuti instruksi khusus secara terus-menerus dari pembicara.
