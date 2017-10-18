@@ -1,6 +1,6 @@
 # Konsep acara
 
-Lumbung ini berisi konsep-konsep acara yang sudah dan akan dilakukan oleh komunitas Lombok Dev Meetup. Konsep-konsep acara tersebut antara lain:
+Lumbung ini berisi konsep-konsep acara yang sudah dan akan pakai oleh komunitas Lombok Dev Meetup. Konsep-konsep acara tersebut antara lain:
 
 - [Annual lightning talk](/annual-lightning-talks.md)
 - [Tech talk](/tech-talks.md)
