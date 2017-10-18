@@ -1,5 +1,5 @@
 ## _Tech Talk_
-Alokasi waktu untuk acara ini adalah 2 jam dengan porsi sbb:
+Alokasi waktu untuk acara ini adalah 2 jam (diluar ishoma) dengan porsi sbb:
 1. Slot materi dibuka untuk 3 pemateri
 2. Standar setiap materi memiliki waktu persentasi max 40 menit beserta tanya jawab
 3. Standar bisa diubah asal memenuhi alokasi waktu 2 jam
