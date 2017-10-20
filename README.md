@@ -9,4 +9,4 @@ Lumbung ini berisi konsep-konsep acara yang sudah dan akan pakai oleh komunitas 
 - [Bootcamp](/bootcamp.md)
 - [Workshop](/workshop.md)
 
-Silakan merujuk ke [halaman berikut](/budget-and-venues.md) untuk alternatif venue dan budget.
+Silakan merujuk ke [halaman berikut](/budget-venues-sponsor.md) untuk alternatif venue, budget dan calon sponsor potensial.
