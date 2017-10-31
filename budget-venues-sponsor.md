@@ -15,3 +15,4 @@ Untuk memenuhi budget target, berikut beberapa calon sponsor potensial :
 - Ruma (Kontak dari Mas Hayi)
 - Kominfo (diajukan 1 tahun sebelum acara)
 - Bekraf (diajukan 4 bulan sebelum acara, http://www.bekraf.go.id/satupintu)
+- https://community.github.com/
