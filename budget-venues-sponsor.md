@@ -20,3 +20,7 @@ Untuk memenuhi budget target, berikut beberapa calon sponsor potensial :
 - Bekraf (diajukan 4 bulan sebelum acara, http://www.bekraf.go.id/satupintu)
 - https://community.github.com/
 - Biznet Cloud
+- Jojonomic, Jakarta (pm @hayinukman untuk backdoor, https://jojonomic.com, proposal minimal 1 bulan sebelum kegiatan)
+- Bukalapak, Jakarta (pm @hayinukman, proposal minimal 1 bulan sebelum kegiatan)
+- Tokopedia, Jakarta (pm @hayinukman, proposal minimal 1 bulan sebelum kegiatan)
+- KMK, Jakarta (pm @hayinukman, kemungkinan low, proposal minimal 2 bulan sebelum kegiatan)
